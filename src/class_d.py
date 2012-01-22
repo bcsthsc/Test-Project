@@ -15,3 +15,7 @@ class D(object):
         Constructor
         '''
         print "Initialized D object"
+
+    def new_function(self):
+        print "new_function"
+
