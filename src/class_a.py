@@ -8,4 +8,5 @@ class A(object):
     
     def __init__(self):
         print "initialized A object"
+        print "initialized A object"
         
