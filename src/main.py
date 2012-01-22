@@ -10,3 +10,4 @@ import class_b
 if __name__ == '__main__':
     a = class_a.A()
     b = class_b.B()
+    c = class_c.C()
