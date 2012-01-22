@@ -14,4 +14,4 @@ class B(object):
         '''
         Constructor
         '''
-        print "Initialized B object"
+        print "B init object"
