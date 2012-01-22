@@ -15,3 +15,5 @@ class D(object):
         Constructor
         '''
         print "Initialized D object"
+	print "More Text"
+
