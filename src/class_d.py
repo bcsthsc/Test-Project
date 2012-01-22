@@ -4,7 +4,7 @@ Created on Jan 21, 2012
 @author: thos
 '''
 
-class B(object):
+class D(object):
     '''
     classdocs
     '''
@@ -14,4 +14,4 @@ class B(object):
         '''
         Constructor
         '''
-        print "Initialized B object"
+        print "Initialized D object"
