@@ -15,6 +15,7 @@ class D(object):
         Constructor
         '''
 	# some change in constructor
+	this is normal
         print "Initialized D object"
         print "More Text"
 
