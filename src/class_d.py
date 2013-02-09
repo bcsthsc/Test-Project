@@ -14,6 +14,7 @@ class D(object):
         '''
         Constructor
         '''
+	# ohter comment
         print "Initialized D object"
         print "More Text"
 
